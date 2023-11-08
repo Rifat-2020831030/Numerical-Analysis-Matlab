@@ -4,9 +4,8 @@ function A = task_101(x,y)
   a = max(max(x));
   b = max(max(y));
   fprintf("Max value in A: %d\n",a);
-  fprintf("Max value in B: %d\n",b);
   if c1 != r2
-    fprintf("The input matrix cannot be multiplyed\n")
+    fprintf("The input matrix cannot be multiplayed\n")
   else
     A = x*y;
   end
