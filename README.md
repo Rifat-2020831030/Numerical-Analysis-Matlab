@@ -6,8 +6,8 @@ Matrix Multiplication:
 
 Bisection Method:
 
-![Screenshot 2023-11-09 204945](https://github.com/Rifat-2020831030/Numerical-Analysis-Matlab/assets/108355509/3674b851-5bae-41cd-8ce3-e68408872d5a)
+![Screenshot 2023-11-09 203717](https://github.com/Rifat-2020831030/Numerical-Analysis-Matlab/assets/108355509/16d7696a-3e78-4bd0-8133-09977aa5b9bc)
 
 Newton Rapson Method:
 
-![Screenshot 2023-11-09 203717](https://github.com/Rifat-2020831030/Numerical-Analysis-Matlab/assets/108355509/16d7696a-3e78-4bd0-8133-09977aa5b9bc)
+![Screenshot 2023-11-09 204945](https://github.com/Rifat-2020831030/Numerical-Analysis-Matlab/assets/108355509/3674b851-5bae-41cd-8ce3-e68408872d5a)
