@@ -1,1 +1,1 @@
-# Numerical-Analysis-Matlab
+This repo contains the implementation of some root finding numerical method using octave.
