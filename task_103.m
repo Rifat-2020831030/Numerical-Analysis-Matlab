@@ -8,14 +8,15 @@ c= (a*f(b)-b*f(a))/(f(b)-f(a));
 roots = [];
 tolerence= 1e-6;
 
-  while abs(f(c)) > tolerence
-    if f(a)*f(c) < 0
-      b = c;
-    else
-      a = c;
-    roots = [roots; c];
-    c = (a*f(b) - b*f(a))/(f(b)-f(a))
+while abs(f(c)) > tolerence
+  if f(a)*f(c) < 0
+    b = c;
+  else
+    a = c;
+  roots = [roots; c];
+  c = (a*f(b) - b*f(a))/(f(b)-f(a))
   end
+end
 
 x = linspace(0,3,100);
 plot(x, f(x));
@@ -28,4 +29,4 @@ hold on;
 plot(roots, f(roots),'gx');
 plot(c, f(c), 'rx');
 
-end
+endfunction
